@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate Python Full Stack Developer</h3>
+<h3 align="center">A passionate  Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay321654&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay321654" /> </p>
 
@@ -7,9 +7,8 @@
 
 - 📝 I regularly Upload my works on [linkedin.com/in/sanjay-mr](linkedin.com/in/sanjay-mr)
 
-- 📫 How to reach me **sanjayilaya2002@gmail.com**
+- 📫 How to reach me **sanjurajendran20@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com/file/d/12us1RqTQoymPucqZJgMaB1wGb51jLySu/view?usp=sharing](drive.google.com/file/d/12us1RqTQoymPucqZJgMaB1wGb51jLySu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
